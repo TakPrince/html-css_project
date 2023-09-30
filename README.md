@@ -1,3 +1,3 @@
 # html-css_project
-<br><hr>
-amazon clon
+<br>
+<h1>amazon clon</h1>
